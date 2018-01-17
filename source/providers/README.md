@@ -95,5 +95,5 @@ Kubeless is an open source project initiated by [Bitnami](https://bitnami.com), 
 [More details](./kubeless.md)...
 
 ***
-**Credits:** Rupak Ganguly (@rupakg), James Thomas (@thomasj), Pavan Yara (@yarapavan)
+**Credits:** Rupak Ganguly (@rupakg), James Thomas (@thomasj), Pavan Yara (@pavanyara_)
 ***
